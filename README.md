@@ -119,7 +119,7 @@ public class Processor
 -	PacketProcessor, задача — выполнить необходимую логику обработки пакета (подсчет статистики и т. д.) и передать пакет на сохранение объекту PacketSaver.
 -	PacketSaver, задача — сохранить пакет в файловом хранилище.
 
-![Диаграмма]](/Diagram.png?raw=true "Диаграмма")
+<img src="https://github.com/sasha-tlt/c-sharp-interview-challenges/blob/main/Diagram.png?raw=true"/>
 
 
 ## Задача 5
